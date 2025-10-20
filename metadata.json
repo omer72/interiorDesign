@@ -1,0 +1,5 @@
+{
+  "name": "AI Interior Designer",
+  "description": "Upload images of your apartment rooms, select a design style, and let AI generate stunning redesigns. See your space transform into Scandinavian, Boho, Modern, and other styles instantly.",
+  "requestFramePermissions": []
+}
